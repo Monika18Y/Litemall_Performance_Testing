@@ -1,0 +1,2 @@
+# litemall_performance_testing
+使用Jmeter工具完成轻商城项目性能测试
