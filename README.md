@@ -1,4 +1,4 @@
-# 轻商城性能测试
+# 轻商城性能测试 performance testing
 使用Jmeter工具完成轻商城项目性能测试
 Using Jmeter tool to complete performance testing of the Light Mall project
 
