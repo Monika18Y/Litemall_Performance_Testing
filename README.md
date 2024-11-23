@@ -12,3 +12,9 @@ And complete performance bottleneck analysis
 - JAVA应用（JAVA内存）
   - JAVA application (JAVA memory)
 - 压测机
+
+# 工具
+VMware、MySQL、Jmeter、ServerAgent
+
+# 项目资源
+轻商城CentOS下载url：https://pan.xiaoqiu.in/s/L0mU3
